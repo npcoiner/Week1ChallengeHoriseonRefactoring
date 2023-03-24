@@ -14,6 +14,7 @@ SO THAT our own site is optimized for search engines
 
 ```
 I have added the semantic HTML elements to the html file. 
+I have fixed a broken navigation link.
 I have ensured the elements follow a logical structure.
 I have added alt attributes to the icon and image elements.
 I have ensured the heading attributes are in sequential order.
