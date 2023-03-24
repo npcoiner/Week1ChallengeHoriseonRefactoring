@@ -24,5 +24,5 @@ I have made the CSS code more concise and easier to follow.
 
 ## Deployment details
 ```
-The website is deployed at https://npcoiner.github.io/Week1ChallengeHoriseonRefactoring/#social-media-marketing
+The website is deployed at https://npcoiner.github.io/Week1ChallengeHoriseonRefactoring/
 ```
